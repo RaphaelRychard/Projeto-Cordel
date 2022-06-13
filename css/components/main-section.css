@@ -33,7 +33,7 @@
 }
 
 .main-section.imagem.img-1{
-    background: url(/image/background001.jpg) right center fixed no-repeat;
+    background: url("../../image/background001.jpg") right center fixed no-repeat;
     background-size: cover;
     min-height: 80vh;
     display: flex;
@@ -42,7 +42,7 @@
 }
 
 .main-section.imagem.img-2{
-    background: url(/image/background002.jpg) right center fixed no-repeat;
+    background: url("../../image/background002.jpg") right center fixed no-repeat;
     background-size: cover;
     min-height: 80vh;
     display: flex;
